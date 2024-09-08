@@ -1,7 +1,7 @@
 
 ## Welcome to the best and cheapest Pump.fun comment bot
 
-##TG bot: https://t.me/pumpcomment_bot
+## TG bot: https://t.me/pumpcomment_bot
 
 ## If you have any questions: tg @SolScriptsDev
 
